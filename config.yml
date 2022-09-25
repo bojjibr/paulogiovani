@@ -1,0 +1,23 @@
+baseURL: 'http://example.org/'
+languageCode: 'en-us'
+title: 'Paulo Giovani'
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Paulo Giovani
+  description: "Site pessoal de Paulo Giovani"
+  keywords: [Blog, Portfolio, PaperMod]
+  author: Paulo Giovani
+  DateFormat: "January 2, 2006"
+  defaultTheme: dark
+  disableThemeToggle: false
