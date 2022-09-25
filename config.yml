@@ -13,10 +13,18 @@ minify:
   minifyOutput: true
 
 params:
+  homeInfoParams:
+        Title: Olá, seja bem-vindo(a)!
+        Content: Esse é meu espaço para escrever sobre tecnologia, filosofia e tudo mais que gosto.
+  socialIcons: # optional
+        - name: twitter
+          url: "https://twitter.com/bojjibr"
+        - name: github
+          url: "https://github.com/bojjibr"
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Paulo Giovani
   description: "Site pessoal de Paulo Giovani"
-  keywords: [Blog, Portfolio, PaperMod]
+  keywords: [Blog, Portfolio, Tecnologia, Filosofia, Anime, Animes]
   author: Paulo Giovani
   DateFormat: "January 2, 2006"
   defaultTheme: dark
