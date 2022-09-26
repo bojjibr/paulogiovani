@@ -24,7 +24,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Paulo Giovani
   description: "Site pessoal de Paulo Giovani"
-  keywords: [Blog, Portfolio, Tecnologia, Filosofia, Anime, Animes]
+  keywords: [Blog, Portfolio, Tecnologia, Filosofia, Anime, Animes, Livros]
   author: Paulo Giovani
   DateFormat: "January 2, 2006"
   defaultTheme: dark
